@@ -1,0 +1,191 @@
+{
+ "experiences": [
+  {
+   "company": "Naviguard",
+   "startMonth": "8",
+   "startYear": "2020",
+   "endMonth": "12",
+   "endYear": "2023",
+   "desc": "Assumed the role of backend dev lead on the Digital X team. Successfully designed and delivered the Naviguard Member Portal for patients, the Naviguard Provider Portal for medical providers, and most recently a secure messaging solution integrated with Optum Secure Messenger. The launch of the two self-service portals resulted in one third of the liaison staff being able to transition to more important duties within the company. Primary responsibilities were API design/development and integration with Optum infrastructure, with some React.",
+   "improving": true,
+   "imageName": "naviguard.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "iHerb",
+   "startMonth": "4",
+   "startYear": "2020",
+   "endMonth": "6",
+   "endYear": "2020",
+   "desc": "Implemented several core fulfillment features for iHerb's NextGen Warehouse Management System using DDD principles in a microservices-oriented event sourced system design. Daily development involved extensive usage of EventStore, MongoDB, MediatR, Docker and RabbitMQ. Adhered strongly to SOLID principles while utilizing a CQRS architecture and Kubernetes to provide high availability and fast performance under heavy load. Also assisted with developing React components in Typescript. The project was shelved in June due to the pandemic.",
+   "improving": true,
+   "imageName": "iHerb.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "Six Flags",
+   "startMonth": "1",
+   "startYear": "2017",
+   "endMonth": "3",
+   "endYear": "2020",
+   "desc": "Participated in a team of 4 to develop an automated solution to bring the organization into compliance with new consumer privacy mandates from the state of California. Created a Vue.js front end for employees to manage privacy requests and participated in the design and development of a highly decoupled asynchronous backend component to search multiple internal systems for identifying information about a customer. Also responsible for several feature additions and bugfixes as needed on existing enterprise systems including Ticketing, Benefits, Loyalty, and the Employment Administration System. Utilized ASP.NET Core, Entity Framework Core and SQL Server stored procedures.",
+   "improving": true,
+   "imageName": "sixflags.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "Artistree",
+   "startMonth": "10",
+   "startYear": "2016",
+   "endMonth": "1",
+   "endYear": "2017",
+   "desc": "Together with one other Improving consultant, rewrote a legacy application from the ground up to accommodate changes being made in the custom frame manufacturing and assembly process. The rewrite was completed in WPF and utilized MVVM Light Toolkit and MahApps.Metro for architecture and styling. Project scope was limited to UI rewrite only. The project was shelved due to organizational restructuring.",
+   "improving": true,
+   "imageName": "artistree.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "Insite/NRG",
+   "startMonth": "12",
+   "startYear": "2015",
+   "endMonth": "9",
+   "endYear": "2016",
+   "desc": "Assisted a team of 4 with the ongoing design, development, and maintenance of an MVC application designed for energy suppliers and independent and brokerage agents in the commercial energy sales arena. In addition to regular development activities, also advised and mentored a junior developer for the duration of the engagement. Primarily utilized ASP.NET MVC4, Entity Framework 4, and DevExpress reporting controls.",
+   "improving": true,
+   "imageName": "insite.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "Six Flags",
+   "startMonth": "8",
+   "startYear": "2014",
+   "endMonth": "10",
+   "endYear": "2015",
+   "desc": "Asked to return and work with a team of developers that varied in size from one to four. Designed and developed an ASP.NET MVC4/KnockoutJS application which gave the theme parks the ability to manage select information unique to their park. A primary feature allowed managers to view/edit the timecard activity of seasonal labor employees who clock in and out for shifts and breaks using an interactive phone system. Also coordinated and successfully executed a months-long effort to redesign and replace key HR systems, the first step in a multi-year plan to modernize and simplify data flows across the company. Assumed team lead responsibilities in May 2015. Extensive SQL and ASP.NET MVC4, moderate KnockoutJS and Massive.",
+   "improving": true,
+   "imageName": "sixflags.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "Alkami",
+   "startMonth": "8",
+   "startYear": "2013",
+   "endMonth": "8",
+   "endYear": "2014",
+   "desc": "Worked on a team of two to design and implement a Bill Pay component for an online banking solution. Developed an interface to support multiple third party bill pay providers. The company has since grown to become the leading digital banking solutions provider with annual revenues exceeding $300M. Heavy OOD/P and API work, TDD, moderate ASP.NET MVC4 and NHibernate; limited extJS.",
+   "improving": true,
+   "imageName": "alkami.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "Six Flags",
+   "startMonth": "8",
+   "startYear": "2012",
+   "endMonth": "8",
+   "endYear": "2013",
+   "desc": "Assisted with the stabilization of the existing WPF-based Ticketing application while rewriting it as an ASP.NET MVC3 web app. The rewrite enabled parks to offer more targeted and granular discounts and offers to park attendees. Skills utilized included WPF, ASP.NET MVC3, WCF, MSMQ, Entity Framework, and SQL Server 2008.",
+   "improving": true,
+   "imageName": "sixflags.png",
+   "skills": ["", ""]
+  },
+  {
+   "company": "Michaels",
+   "startMonth": "5",
+   "startYear": "2010",
+   "endMonth": "8",
+   "endYear": "2012",
+   "desc": "In Store Processor project: I was brought in to assist with the ongoing development of a WPF application used to manage all store-level back office operations including inventory, purchase orders, ordering, and pricing. Also developed and directly supported the pilot deployment of a line-busting application and a price checker application for the handheld scanners used in store. WPF, WCF, LINQ2SQL, MVP design pattern. Framer’s Point Visualization project: following the ISP project I shifted to participating with a team of 4 to build a WPF application which allowed in-store framing associates to scan a customer’s artwork and display it virtually in configurable custom frames and as a finished product on a living room wall. Several Michaels locations reported an increase of up to 30% in framing sales post-release. Skills used included WPF, WCF, NHibernate, SQL Server, MVP/MVVM design patterns.",
+   "improving": true,
+   "imageName": "michaels.png",
+   "skills": ["", ""]
+  },
+  {
+    "company": "Brinks Home Security",
+    "startMonth": "3",
+    "startYear": "2009",
+    "endMonth": "5",
+    "endYear": "2010",
+    "desc": "Maintained and added features to an existing web application which supported the Field Operations department. ASP.NET, SQL Server.",
+    "improving": false,
+    "imageName": "brinks.png",
+    "skills": ["", ""]
+  },
+  {
+    "company": "EMSI",
+    "startMonth": "9",
+    "startYear": "2007",
+    "endMonth": "3",
+    "endYear": "2009",
+    "desc": "Member and eventually Lead of the Enterprise Ordering Platform (EOP) team charged with supporting and extending the platform to ingest data from multiple systems in varying formats using MS BizTalk Server. Utilized WCF and NHibernate.",
+    "improving": false,
+    "imageName": "emsi.png",
+    "skills": ["", ""]
+  },
+  {
+    "company": "Intellinex",
+    "startMonth": "9",
+    "startYear": "2004",
+    "endMonth": "10",
+    "endYear": "2006",
+    "desc": "Member of the Learning Management System (LMS) development team providing a customizable online e-Learning platform for companies including Canon and Cisco. Responsibilities included both maintenance and new enhancements to the core product (provided by SumTotal Systems). Maintained ownership of the Entitlement and eCommerce subsystems. Technologies utilized include C# .NET 1.1, VB6, server-side JavaScript, and extensive utilization of SQL Server 2000 stored procedures. After Intellinex was purchased by ACS in 2006, migrated to a team of blended architect-developers charged with designing and building the framework upon which the next generation of the e-Learning enterprise application would be built. Extensive use of C# and .NET 2.0 (including generics), Microsoft Enterprise Library, SQL Server 2005, code testing and static analysis utilities such as NUnit and FxCop.",
+    "improving": false,
+    "imageName": "intellinex.png",
+    "skills": ["", ""]
+  },
+  {
+    "company": "JCPenney",
+    "startMonth": "9",
+    "startYear": "2002",
+    "endMonth": "9",
+    "endYear": "2004",
+    "desc": "Worked with a team of five to design and develop numerous sales assistance applications on the WinNT, Win2000 and Pocket PC platforms. Also individually developed a Pocket PC application enabling store associates to scan a product barcode and view all current sales and discount information for the item.",
+    "improving": false,
+    "imageName": "jcpenney.png",
+    "skills": ["", ""]
+  },
+  {
+    "company": "Half Price Books",
+    "startMonth": "4",
+    "startYear": "2002",
+    "endMonth": "8",
+    "endYear": "2002",
+    "desc": "Full rewrite of shopping cart functionality for the HPB website to include suggested items and other prompts to action. Within a week of initial release daily order counts more than doubled. The site was written in ASP with VB6 COM components providing data access.",
+    "improving": false,
+    "imageName": "halfpricebooks.png",
+    "skills": ["", ""]
+  },
+  {
+    "company": "T-NETIX",
+    "startMonth": "2",
+    "startYear": "2001",
+    "endMonth": "3",
+    "endYear": "2002",
+    "desc": "Assumed a primary role in the overhaul of Contain™, a fully automated voice verification system designed to monitor parolees. Assisted with stabilization of the code base and subsequent incorporation of new features. Performance and reliability increases directly resulted in a twofold increase in enrolled subjects. Primarily VB6, with a side project in PHP.",
+    "improving": false,
+    "imageName": "tnetix.png",
+    "skills": ["", ""]
+  },
+  {
+    "company": "Verizon Online",
+    "startMonth": "9",
+    "startYear": "2000",
+    "endMonth": "2",
+    "endYear": "2001",
+    "desc": "Designed, developed and maintained VB COM components for an n-tier enterprise solution facilitating the ordering and acquisition of residential DSL service.",
+    "improving": false,
+    "imageName": "verizononline.png",
+    "skills": ["", ""]
+  },
+  {
+    "company": "Justicelink",
+    "startMonth": "6",
+    "startYear": "1999",
+    "endMonth": "9",
+    "endYear": "2000",
+    "desc": "Participated in the overall development, implementation, and maintenance of a B2B service application providing e-filing and notification services between attorneys and participating courts. Also responsible for the full development life cycle of a suite of ASP-based audit tools for the Customer Service Department. The e-file product was successful enough that the company was sold to Lexis-Nexis in 2001. Heavily utilized ASP and SQL Server.",
+    "improving": false,
+    "imageName": "justicelink.png",
+    "skills": ["", ""]
+  }
+ ]
+}
