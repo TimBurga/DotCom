@@ -1,7 +1,6 @@
 import "./App.css";
 import { experiences } from "./assets/experiences.json";
-import improvingLogo from "./assets/improving.png";
-import * as images from "./assets/*.png";
+import improvingLogo from "/logos/improving.png";
 
 const format = (theDate: Date) =>
   theDate.toLocaleDateString("en-US", {
@@ -151,7 +150,7 @@ function App() {
                 experience.endYear + "-" + experience.endMonth + "-1"
               );
 
-              const logo = "/src/assets/" + experience.imageName;
+              const logo = "/logos/" + experience.imageName;
 
               const remoteLabel = experience.remote ? (
                 <li className="px-1 my-2 text-xs text-center text-gray-750 bg-gray-200">
