@@ -1,6 +1,7 @@
 import "./App.css";
 import { experiences } from "./assets/experiences.json";
 import improvingLogo from "./assets/improving.png";
+import * as images from "./assets/*.png";
 
 const format = (theDate: Date) =>
   theDate.toLocaleDateString("en-US", {
