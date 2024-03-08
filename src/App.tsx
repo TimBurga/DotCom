@@ -23,8 +23,10 @@ function App() {
           "
       >
         <div className="initials-container mr-5 text-base leading-none pb-3 pt-3 text-white bg-blue-800 font-medium px-3">
-          <div className="initial text-center text-2xl pb-1">T</div>
-          <div className="initial text-center text-2xl initial">B</div>
+          <div className="initial text-center text-3xl font-bold pb-1">T</div>
+          <div className="initial text-center text-3xl font-bold initial">
+            B
+          </div>
         </div>
         <h1 className="print:text-6xl lg:text-6xl md:text-5xl mr-auto text-3xl font-semibold text-gray-750 pb-px">
           Tim Burga
@@ -178,9 +180,9 @@ function App() {
 
               return (
                 <section className="my-6 border-b-2">
-                  <div className="flex flex-row">
-                    <div className="flex-shrink-0 justify-center">
-                      <div>
+                  <div className="flex flex-col sm:flex-row justify-center">
+                    <div className="flex-shrink-0">
+                      <div className="flex justify-center">
                         <img src={logo} width="110" />
                       </div>
                       <div className="text-center flex-grow-0 text-sm text-gray-700 mt-2">
