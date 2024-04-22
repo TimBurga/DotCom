@@ -1,6 +1,20 @@
 {
  "experiences": [
   {
+    "company": "Quadax",
+    "title": "Systems Architect",
+    "startMonth": "4",
+    "startYear": "2024",
+    "endMonth": "",
+    "endYear": "",
+    "desc": "One of a team of architects. The rest is TBD!",
+    "improving": false,
+    "remote": true,
+    "contract": false,
+    "imageName": "quadax.png",
+    "skills": ["", ""]
+  },  
+  {
     "company": "Improving",
     "title": "Senior Software Consultant",
     "startMonth": "5",
