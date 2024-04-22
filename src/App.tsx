@@ -148,8 +148,8 @@ function App() {
               const start: Date = new Date(
                 experience.startYear + "-" + experience.startMonth + "-1"
               );
-              const end: Date = new Date(
-                experience.endYear + "-" + experience.endMonth + "-1"
+              const end: Date = experience.endYear ? new Date(
+                experience.endYear + "-" + experience.endMonth + "-1" : null
               );
 
               const logo = "/logos/" + experience.imageName;
@@ -189,7 +189,7 @@ function App() {
                         {format(start)} –
                       </div>
                       <div className="text-center flex-grow-0 text-sm text-gray-700 mb-2">
-                        {format(end)}
+                        {if (end) {format(end)}}
                       </div>
                       {improving}
                       <ul className="flex flex-row justify-center">
