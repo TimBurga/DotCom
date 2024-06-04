@@ -2,11 +2,13 @@ import "./App.css";
 import { experiences } from "./assets/experiences.json";
 import improvingLogo from "/logos/improving.png";
 
-const format = (theDate: Date) =>
-  theDate.toLocaleDateString("en-US", {
+const format = (theDate: Date | null) => {
+  if (!theDate) return null;
+  return theDate.toLocaleDateString("en-US", {
     year: "numeric",
-    month: "short",
+    month: "short"
   });
+}
 
 function App() {
   return (
@@ -148,9 +150,9 @@ function App() {
               const start: Date = new Date(
                 experience.startYear + "-" + experience.startMonth + "-1"
               );
-              const end: Date = experience.endYear ? new Date(
-                experience.endYear + "-" + experience.endMonth + "-1" : null
-              );
+              const end: Date | null = experience.endYear ? new Date(
+                experience.endYear + "-" + experience.endMonth + "-1"
+              ) : null;
 
               const logo = "/logos/" + experience.imageName;
 
@@ -189,7 +191,7 @@ function App() {
                         {format(start)} –
                       </div>
                       <div className="text-center flex-grow-0 text-sm text-gray-700 mb-2">
-                        {if (end) {format(end)}}
+                        {format(end)}
                       </div>
                       {improving}
                       <ul className="flex flex-row justify-center">
