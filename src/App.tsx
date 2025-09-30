@@ -13,12 +13,6 @@ const format = (theDate: Date | null) => {
 function App() {
   return (
     <>
-      <script>
-        var itsame = "tim";
-        var domain = "burga.dev";
-        var magic = document.getElementById("supersecret");
-        magic.href = `mailto:${itsame}@${domain}`;
-      </script>
       <header
         className="
             flex
@@ -58,12 +52,12 @@ function App() {
         <ul className="print:flex-row flex flex-wrap flex-col sm:flex-row justify-between gap-2 list-inside pr-7">
           <li className="mt-1.5 text-gray-700 text-md">
             <a
-              id = "supersecret"
+              href="mailto:tim@burga.dev"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="far fa-envelope mx-1 text-blue-900"></i>
-              Email
+              tim@burga.dev
             </a>
           </li>
 
