@@ -1,10 +1,24 @@
 {
  "experiences": [
   {
+    "company": "Evry Health",
+    "title": "Senior Software Developer",
+    "startMonth": "12",
+    "startYear": "2025",
+    "desc": "",
+    "improving": false,
+    "remote": true,
+    "contract": false,
+    "imageName": "Building next gen tools to bring humanity back to health insurance",
+    "skills": ["", ""]
+  }
+  {
     "company": "Quadax",
     "title": "Systems Architect",
     "startMonth": "4",
     "startYear": "2024",
+    "endMonth": "12",
+    "endYear": "2025",
     "desc": "One of a team of architects charged with designing the next generation of systems and utilities underlying and supporting the company's core business products",
     "improving": false,
     "remote": true,
